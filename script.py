@@ -25,11 +25,11 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
 ● <b>Creater :</b> @SaCHinK4S
 
-⭕️<b>Language :</b> <code>Python3</code>
+● <b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+● <b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/sachink4s/Zee5-Downloader'>Click Here</a>"""
+● <b>Source Code :</b> 👉 <a href='https://github.com/sachink4s/Zee5-Downloader'>Click Here</a>"""
 
 
 
@@ -55,7 +55,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@SK4S_BotSupport\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = " Use /delthumb to clear this thumbnail.\n\n @SK4S_AllChannel "
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
