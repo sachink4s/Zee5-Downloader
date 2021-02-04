@@ -29,5 +29,5 @@ class Config(object):
     DEF_THUMB_NAIL_VID_S = os.environ.get("DEF_THUMB_NAIL_VID_S", "")
     
     # Sql Database url
-    DB_URI = os.environ.get("DATABASE_URL", "")
+    DB_URI = os.environ.get("DATABASE_URL", "postgres://drvdhpzhipiiph:3a8ffe99114cfc621472ef5a4f26287292bddf5037bc70ba270baf2636d8d6c0@ec2-54-163-230-90.compute-1.amazonaws.com:5432/d7ft15hrb7dl")
     
